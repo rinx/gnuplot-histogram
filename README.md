@@ -2,7 +2,7 @@
 
 A histogram enhancement for gnuplot gem
 
-** THIS IS UNDER DEVELOPMENT **
+**THIS IS UNDER DEVELOPMENT**
 
 ## Installation
 
